@@ -1,10 +1,14 @@
-}
-body
- background-color:#d136b9
- background-size: 100%
- padding-top: 100px
+#*style the body with a backgroundcolor*/
+body}
+ font:georgian;
+ background-color:#4286f4;
  
 }
-sign up form
-background:skyblue
-maxwidth:450px
+form
+ margin-bottom:30px
+ width:1000%
+ box-sizing:boder-box;
+ }
+ .h1,h2
+ font-size:30px
+ text-align:center
