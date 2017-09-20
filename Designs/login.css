@@ -1,0 +1,35 @@
+body{
+	background-color:#ff6666;
+	margin:0;
+	padding:0;
+}
+h1{
+	font-size:50px;
+	text-align:center;
+	font-family:arial;
+	margin-right:0;
+	margin-left:0;	
+}
+form{
+	margin:25px auto;
+	width:400px;
+}
+input{
+	padding:10px;
+	width:80%;
+	margin-top:20px;
+	margin-bottom:20px;
+}	
+input[type="text"]{
+	display:block;
+	margin-bottom:25px;
+	border:2px solid#b3c6ff;
+}
+input[type="email"]{
+	display:block;
+	margin-bottom:25px;
+	border:2px solid#b3c6ff;
+}
+not registered span{
+	display:block;
+	text-align:center;

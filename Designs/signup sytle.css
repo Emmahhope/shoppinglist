@@ -1,14 +1,35 @@
-#*style the body with a backgroundcolor*/
-body}
- font:georgian;
- background-color:#4286f4;
- 
+body{
+	background-color:sky blue;
+	margin:0;
+	padding:0;
 }
-form
- margin-bottom:30px
- width:1000%
- box-sizing:boder-box;
- }
- .h1,h2
- font-size:30px
- text-align:center
+img{
+	margin:2opx auto;
+	height: 120px;
+}
+h1,h2{
+	text-align:center;
+	font-family:arial;
+	margin-right:0;
+	margin-left:0;
+}	
+h1{
+	font size:50px;
+}
+h2{
+font-size:30px;	
+)
+form input{
+	width:80%;
+	margin-top:20px;
+	margin-bottom:20px;
+}	
+already have an account span{
+	display:block;
+	text-align:left;
+}
+	
+	
+	
+	
+	

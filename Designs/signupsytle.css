@@ -1,0 +1,63 @@
+body{
+	background-color:#e6ecff;
+	margin:0;
+	padding:0;
+}
+img{margin-left: auto;
+margin-right: auto;
+display: block;	
+}
+h1,h2{
+	text-align:center;
+	font-family:arial;
+	margin-right:0;
+	margin-left:0;
+}	
+h1{
+	font-size:50px;
+}
+h2{
+font-size:30px;	
+}
+
+form{
+	margin:10px auto;
+	width:400px;
+}
+
+input{
+	padding:10px;
+	width:70%;
+	margin-top:20px;
+	margin-bottom:20px;
+}	
+input[type="text"]{
+	display:block;
+	margin-bottom:25px;
+	border:2px solid#b3c6ff;
+}
+input[type="email"]{
+	display:block;
+	margin-bottom:25px;
+	border:2px solid#b3c6ff;
+}
+input[type="password"]{
+	display:block;
+	margin-bottom:25px;
+	border:2px solid#b3c6ff;	
+}
+input[type="submit"]{
+	width:100px;
+	height:40px;
+	border:none;
+	background:#9fbfdf;
+}
+already have an account span{
+	display:block;
+	text-align:center;
+}
+	
+	
+	
+	
+	
